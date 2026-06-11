@@ -83,32 +83,6 @@ graph TD
     JS -->|Analyze thresholds| Badge[Gamification Badges]
 ```
 
----
-
-## 📸 Screenshots
-
-### 1. Homepage
-![Homepage](assets/screenshots/01-homepage.png)
-
-### 2. Carbon Calculator
-![Carbon Calculator](assets/screenshots/02-calculator.png)
-
-### 3. Results Dashboard
-![Results Dashboard](assets/screenshots/03-dashboard.png)
-
-### 4. What If Simulator
-![What If Simulator](assets/screenshots/04-simulator.png)
-
-### 5. Carbon History Analytics
-![Carbon History Analytics](assets/screenshots/05-analytics.png)
-
-### 6. Eco Challenges & Achievements
-![Eco Challenges & Achievements](assets/screenshots/06-challenges.png)
-
-### 7. Dark Mode Interface
-![Dark Mode Interface](assets/screenshots/07-dark-mode.png)
-
----
 
 ## ⚙️ Installation Guide
 1. Clone the repository to your local computer:
